@@ -1,0 +1,5 @@
+{
+  "name": "Học Toán THCS (chế độ giám sát)",
+  "description": "Ứng dụng ôn luyện Toán THCS thông minh sử dụng Gemini AI. Hỗ trợ hiển thị công thức Toán học và tính năng giám sát chống gian lận.",
+  "requestFramePermissions": []
+}
